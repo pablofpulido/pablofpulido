@@ -1,71 +1,60 @@
-<div align="center">
-  <h1>Hi there, I'm Pablo F. Pulido 👋</h1>
-  <h3>Technical Product Manager | MarTech & Growth Specialist</h3>
-  
-  <p>
-    Building scalable solutions with <b>React, Supabase & AI</b>. <br>
-    Transforming chaos into product strategy leveraging <b>Data & Cloud Architecture</b>.
-  </p>
+# Hi there, I'm Pablo F. Pulido 👋
 
-  <p>
-    🔭 Currently working on: <b>AI-driven Content Strategies & Product Growth</b><br>
-    ⚡ Fun fact: I transformed from managing <b>$10M in Media Ads</b> to architecting <b>Cloud Databases</b>.
-  </p>
+## Technical Product Manager | MarTech, Growth & AI Specialist
 
-<br>
+I bridge the gap between **Business Strategy** and **Engineering Execution**, leveraging **Data, Cloud Architecture & AI** to build scalable products.
 
-<h3>💻 Product Engineering & AI Core</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🔭 **Current Focus:** AI-driven Content Strategies & Product Growth
+- 🚀 **Core Stack:** Supabase, React, Python & Generative AI
+- 🌎 **Experience:** Global Projects (LATAM/USA/Europe)
+- ⚡ **Professional Pivot:** I transformed from managing **$10M+ in Media Ads** to architecting **Cloud Databases** and **AI Workflows**.
 
-<h3>📈 Digital Analytics 360 & BI</h3>
-<p>
-  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlelookerstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Amplitude-5E35B1?style=for-the-badge&logo=amplitude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
-</p>
+---
 
-<h3>🚀 AdTech, CRM & Automation</h3>
-<p>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot_API-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-</p>
+### 💻 Product Engineering & Cloud Core
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Edge Functions](https://img.shields.io/badge/Edge_Functions-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-<h3>💼 PM Tools & Methodologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile_Scrum-0099CB?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lean_Six_Sigma-000000?style=for-the-badge&logo=lean&logoColor=white" />
-</p>
+### 🤖 AI Engineering & Automation
+![Gemini Advanced](https://img.shields.io/badge/Gemini_Advanced-8E75B2?style=flat&logo=googlebard&logoColor=white)
+![ChatGPT Team](https://img.shields.io/badge/ChatGPT_Team-00A67E?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
+![Manus AI](https://img.shields.io/badge/Manus_AI-000000?style=flat&logo=robotframework&logoColor=white)
+![Firebase Studio](https://img.shields.io/badge/Firebase_Studio-FFCA28?style=flat&logo=firebase&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-<br>
+### 📈 Digital Analytics 360
+![GA4 360](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![GTM Server Side](https://img.shields.io/badge/GTM_Server--Side-4285F4?style=flat&logo=googletagmanager&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googlelookerstudio&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-5E35B1?style=flat&logo=amplitude&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat&logo=mixpanel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-FD3A5C?style=flat&logo=hotjar&logoColor=white)
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pablofpulido&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofpulido&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🚀 AdTech & Growth ($10M+ Managed)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=flat&logo=meta&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot_API-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![CleverTap](https://img.shields.io/badge/CleverTap-24C033?style=flat&logo=clevertap&logoColor=white)
 
-<br>
+### 💼 PM Tools & Methodologies
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0099CB?style=flat&logo=scrumalliance&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-000000?style=flat&logo=lean&logoColor=white)
 
+---
+
+### 📫 Connect
 <a href="https://www.linkedin.com/in/pablofpulido/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
-</div>
