@@ -48,9 +48,18 @@ I bridge the gap between **Business Strategy** and **Engineering Execution**, le
 
 ### 💼 PM Tools & Methodologies
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0099CB?style=flat&logo=scrumalliance&logoColor=white)
-![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-000000?style=flat&logo=lean&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Issues-100000?style=flat&logo=github&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP_Certified-000000?style=flat&logo=pmi&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0099CB?style=flat&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0099CB?style=flat&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma_Black_Belt-000000?style=flat&logo=lean&logoColor=white)
 
 ---
 
